@@ -8,8 +8,8 @@ Apaixonado por desenvolvimento e tecnologia :heartpulse:
 
 
 ## Um pouco sobre mim
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquelopes047)](https://github.com/isaquelopes047)
+> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
+> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquelopes047)](https://github.com/isaquelopes047)
 
 ## Um pouco sobre o que eu sei no momento:grey_exclamation:
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
