@@ -17,6 +17,6 @@ Apaixonado por desenvolvimento e tecnologia :heartpulse:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquelopes047&layout=compact)](https://github.com/isaquelopes047)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
 
 
