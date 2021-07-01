@@ -7,6 +7,10 @@ Desenvolvedor Front-end :computer:
 Apaixonado por desenvolvimento e tecnologia :heartpulse:
 
 
+## Um pouco sobre mim
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquelopes047)](https://github.com/isaquelopes047)
+
 ## Um pouco sobre o que eu sei no momento:grey_exclamation:
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,7 +20,5 @@ Apaixonado por desenvolvimento e tecnologia :heartpulse:
 > <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquelopes047&layout=compact)](https://github.com/isaquelopes047)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
 
 
