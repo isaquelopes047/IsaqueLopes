@@ -7,5 +7,5 @@ Desenvolvedor Front-end :computer:
 Apaixonado por desenvolvimento e tecnologia :heartpulse:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
