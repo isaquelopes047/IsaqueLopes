@@ -3,6 +3,7 @@
 ## I'M ISAQUE :smile:
 
 Desenvolvedor Front-end :computer:
+Analise e desenvolvimento de sistemas:man_student:
 
 Apaixonado por desenvolvimento e tecnologia :heartpulse:
 
