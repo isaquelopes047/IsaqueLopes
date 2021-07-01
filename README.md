@@ -10,7 +10,7 @@ Apaixonado por desenvolvimento e tecnologia :heartpulse:
 ## Um pouco sobre mim:arrow_double_down:
 > [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaquelopes91)](https://www.linkedin.com/in/isaquelopes91/)
 > [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquelopes047)](https://github.com/isaquelopes047)
-> [![gmail Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isaquelopes047)](https://github.com/isaquelopes047)
+> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.gmail.com/isaque.lopes047@gmail.com)](https://github.com/isaquelopes047)
 
 ## Linguagens:grey_exclamation:
 > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
