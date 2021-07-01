@@ -20,6 +20,7 @@ Apaixonado por desenvolvimento e tecnologia :heartpulse:
 > <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 > <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquelopes047&layout=compact)](https://github.com/isaquelopes047)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquelopes047&show_icons=true&theme=radical)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquelopes047&layout=compact)](https://github.com/isaquelopes047)
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquelopes047&show_icons=true&theme=radical)
 
 
